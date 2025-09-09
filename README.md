@@ -1,7 +1,7 @@
 # MCS-progetto-2
 
 ## Struttura del progetto:
-- utils.py → implementazioni DCT/IDCT (naïve e fast) + funzioni di supporto
+- utils.py - implementazioni DCT/IDCT (naïve e fast) + funzioni di supporto
 
 - test_dct.py - verifica correttezza implementazioni
 
@@ -37,3 +37,4 @@
 ### Esperimenti sistematici: 
 
 - **python esperimenti_finali.py** 
+
